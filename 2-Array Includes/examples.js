@@ -1,6 +1,8 @@
 // Lesson : Array includes method in ES2016 (ES7)
 // Author : Akash Gutha
 
+
+
 const x = [NaN];
 
 console.log(x.includes(NaN));
